@@ -1,12 +1,8 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Hồng Kỳ site"
-theme = "beautifulhugo"
-
-
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
+title = "Beautiful Hugo"
+theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -47,11 +43,12 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Nguyen Hong Ky"
+  name = "Some Person"
   website = "yourwebsite.com"
-  email = "hongkynguyen156@gmail.com"
-  facebook = "zungtaz"
-  github = "zt-hky"
+  email = "youremail@domain.com"
+  facebook = "username"
+  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "username"
   gitlab = "username"
   bitbucket = "username"
   twitter = "username"
