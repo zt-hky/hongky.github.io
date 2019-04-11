@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Hồng Kỳ site"
 theme = "beautifulhugo"
@@ -47,12 +47,11 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
+  name = "Nguyen Hong Ky"
   website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "username"
+  email = "hongkynguyen156@gmail.com"
+  facebook = "zungtaz"
+  github = "zt-hky"
   gitlab = "username"
   bitbucket = "username"
   twitter = "username"
